@@ -26,5 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vernichz&show_icons=true&locale=en" alt="vernichz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vernichz&" alt="vernichz" /></p>
-
-https://github-profile-trophy.vercel.app/?username=Vernichz&theme=darkhub
+[![trophy](https://github-profile-trophy.vercel.app/?username=vernichz)](https://github.com/ryo-ma/github-profile-trophy)
